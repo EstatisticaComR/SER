@@ -1,7 +1,7 @@
 # SER - International Seminar on Statistics with R
 <img src="https://ser2018.weebly.com/uploads/7/1/0/2/71021863/logo_ser_alta_qualidade.png" data-canonical-src="https://ser2018.weebly.com/uploads/7/1/0/2/71021863/logo_ser_alta_qualidade.png" width="200" height="100" />
 
-# Seminário Internacional de Estística com R/ International Seminar on Statistics with R
+# Seminário Internacional de Estatística com R/ International Seminar on Statistics with R
 
 ## Overview of SER
 
