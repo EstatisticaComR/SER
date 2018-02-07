@@ -33,7 +33,7 @@ There were plenary talks, posters presentations, experimental lab sessions, and 
 
 Two international presentations took place: prof. Manuel Bande Febrero, Santiago Compostela University (Spain) - Dynamic reports in R with LateX or HTML, and Sean Kross online - The swirl R package: Learn R in R, among several domestic talks. The full program is avaiable [I SER](http://www.serrio2016.weebly.com/).
 
-!["Bande Talk I SER"](Bande_full_ SerI.JPG)
+!["Bande Talk I SER"](Bande_full_SerI.JPG)
 
 !["Sean Kross online I SER"](Sean_online_SERI.JPG)
 
