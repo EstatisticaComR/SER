@@ -71,7 +71,7 @@ As in first edition,  during the second  day, there were  poster sessions, contr
 
 !["Awards Session"](awards_serII.jpg)
 
-Full attendance was noticed in many of the minicourses: How and Where to Begin with R (Ariel Levy); GGplot2 - Plots with R (Luciane Alcoforado); Artificial Inteligence with R (Alex Laier); Generalized Linear Models with R (José Rodrigo Moraes); Dashboards Development with R (Steven Ross) full catalog of minicourses is disposed at [II SER](http://www.ser.uff.br/)
+Full attendance was noticed in many of the minicourses: How and Where to Begin with R (Ariel Levy); GGplot2 - Plots with R (Luciane Alcoforado); Artificial Inteligence with R (Alex Laier); Generalized Linear Models with R (José Rodrigo Moraes); Dashboards Development with R (Steven Ross) full catalog of minicourses is disposed at [II SER](http://ser2017.weebly.com/)
 
 !["How and Where to Begin with R"](ariel_mini_SERII.jpg)
 
